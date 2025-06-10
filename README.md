@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Valeri Ngo
 
-<!--
-**ev1lelf/ev1lelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring **Python developer** currently studying at [SoftUni](https://softuni.bg/).  
+With over 10 years of experience in **logistics, warehouse coordination, and fleet management**, I’m now fully focused on transitioning into the IT sector.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I'm working on:
+- ✅ Python Basics & Fundamentals
+- 🔁 Solving practical exercises in PyCharm
+- 🚀 Building a portfolio on GitHub
+
+---
+
+### 🧰 Tech Stack
+- Python
+- Git & GitHub
+- PyCharm
+- HTML/CSS (basic knowledge)
+
+---
+
+### 📂 Selected Projects
+- [python-basics-course](https://github.com/ev1lelf/python-basics-course) – Solutions to beginner exercises from SoftUni  
+- `fundamentals_course` – *Coming soon*  
+
+---
+
+### 📫 Reach Me
+- 📧 Email: sacredlie@abv.bg
+- 🔗 LinkedIn: [Add your profile here]
