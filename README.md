@@ -6,26 +6,29 @@ With over 10 years of experience in **logistics, warehouse coordination, and fle
 ---
 
 ### 🧠 What I'm working on:
-- ✅ Python Basics & Fundamentals
-- 🔁 Solving practical exercises in PyCharm
-- 🚀 Building a portfolio on GitHub
+- ✅ Python Fundamentals (SoftUni)
+- 🧪 Building projects and solving coding exercises
+- 🚀 Developing a GitHub portfolio
 
 ---
 
 ### 🧰 Tech Stack
-- Python
+- Python (basics & fundamentals)
 - Git & GitHub
 - PyCharm
-- HTML/CSS (basic knowledge)
+- HTML/CSS (basic understanding)
 
 ---
 
 ### 📂 Selected Projects
-- [python-basics-course](https://github.com/ev1lelf/python-basics-course) – Solutions to beginner exercises from SoftUni  
-- `fundamentals_course` – *Coming soon*  
+- [programming_fundamentals_python](https://github.com/ev1lelf/programming_fundamentals_python) – My current main project with exercises and learning notes  
+<!-- Future: Add more repositories here when ready -->
 
 ---
 
 ### 📫 Reach Me
 - 📧 Email: sacredlie@abv.bg
-- 🔗 LinkedIn: [Add your profile here]
+
+---
+
+Thanks for visiting! 🙌
