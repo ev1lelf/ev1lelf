@@ -21,6 +21,7 @@ With over 10 years of experience in **logistics, warehouse coordination, and fle
 ---
 
 ### 📂 Selected Projects
+- [programming_basics_python](https://github.com/ev1lelf/basics_course_2025) - Basics course at SoftUni
 - [programming_fundamentals_python](https://github.com/ev1lelf/fundamentals_course_2025/) – My current main project with exercises and learning notes  
 <!-- Future: Add more repositories here when ready -->
 
