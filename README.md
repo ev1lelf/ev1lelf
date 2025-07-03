@@ -28,7 +28,7 @@ With over 10 years of experience in **logistics, warehouse coordination, and fle
 ---
 
 ### 📫 Reach Me
-- 📧 Email: sacredlie@abv.bg
+- 📧 Email: valeri.ngo91@gmail.com
 
 ---
 
